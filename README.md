@@ -29,11 +29,10 @@ Usar **IA** para melhorar a eficiência do Governo! 🌍
 
 📩 Me chame para falar sobre dados e IA!
 
-🌟 **"Um algoritmo de cada vez!"** 🛡
 
 ---
 
-👉 **Explore e contribua!** 🌟
+👉 **Explore e contribua!** 
 
 ---
 
@@ -46,7 +45,6 @@ Usar **IA** para melhorar a eficiência do Governo! 🌍
 
 📩 Pode me chamar para um papo sobre dados, IA ou apenas para compartilhar ideias legais!
 
-✨ **"Vamos usar dados para mudar o mundo – um algoritmo de cada vez!"** 🌟
 
 ---
 
@@ -56,9 +54,7 @@ Usar **IA** para melhorar a eficiência do Governo! 🌍
 
 🛠️ *Em constante desenvolvimento... assim como a IA!* 🧑‍💻
 
----
 
-🌟 *Let's build the future, together!* 🌐⚖️
 
 
 
