@@ -16,21 +16,14 @@
 
 ## Habilidades Técnicas
 
-- **Linguagens de Programação**: Python, R, SQL
-- **Ferramentas de Análise de Dados**: Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
-- **Banco de Dados**: PostgreSQL, MySQL
+- **Linguagens de Programação**: Python
+- **Ferramentas de Análise de Dados**: Pandas, NumPy, Matplotlib, Seaborn, Power BI
+- **Machine Learning**: Scikit-learn, TensorFlow
 - **Versionamento**: Git, GitHub
 
 ## Contribuições
 
 Estou sempre aberto a colaborações e projetos que visem a melhoria da gestão pública por meio da ciência de dados e IA. Se você tem um projeto ou ideia que possa beneficiar o setor público, sinta-se à vontade para entrar em contato!
-
-## Contato
-
-- 📧 **Email**: [seu-email@dominio.com]
-- 💼 **LinkedIn**: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
-- 🐦 **Twitter**: [@seu-usuario](https://twitter.com/seu-usuario) (opcional)
 
 ## Licença
 
@@ -39,27 +32,6 @@ Este repositório está licenciado sob a [MIT License](LICENSE).
 ---
 
 🌟 **Vamos juntos transformar o setor público com dados e inteligência artificial!** 🌟
-👉 **Explore e contribua!** 
-
----
-
-🛠️ *Em constante desenvolvimento...* 🧑‍💻
-
----
-
-🌟 *Let's build the future!* 🌐⚖️
-
-
-📩 Pode me chamar para um papo sobre dados, IA ou apenas para compartilhar ideias legais!
-
-
----
-
-👉 **Fique à vontade para explorar e contribuir!** 🌟
-
----
-
-🛠️ *Em constante desenvolvimento... assim como a IA!* 🧑‍💻
 
 
 
