@@ -1,229 +1,39 @@
 🚀 Jonatas Xavier
-<p align="center"> <b>Servidor Público • Engenheiro de Software • IA para Governo</b> </p> <p align="center"> <i>Desenvolvendo soluções em nível de produção para transformar o setor público com dados, automação e inteligência artificial</i> </p>
-🧠 Sobre
+<p align="center"> <b>Servidor Público • Engenharia de Software • Inteligência Artificial</b> </p> <p align="center"> Inovação no setor público através de dados, automação e sistemas inteligentes </p>
+🧠 Sobre mim
 
-Sou servidor público com foco no desenvolvimento de sistemas escaláveis e prontos para produção, voltados para o setor governamental.
+Servidor público focado no desenvolvimento de soluções tecnológicas modernas para o governo.
 
-Minha atuação está na interseção entre:
+Atuo com construção de sistemas fullstack, análise de dados e inteligência artificial, buscando sempre:
 
-⚙️ Engenharia de Software
+aumentar eficiência de processos públicos
 
-🤖 Inteligência Artificial
+apoiar tomada de decisão com dados
 
-📊 Ciência de Dados
-
-🏛️ Inovação no Setor Público
-
-Desenvolvo aplicações completas (fullstack) com arquiteturas modernas, priorizando performance, manutenibilidade e impacto real.
+desenvolver soluções reais e aplicáveis
 
 🧱 Stack Tecnológica
-<p align="center">
+<p align="center"> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=fastapi" /> <img src="https://skillicons.dev/icons?i=vue" /> <img src="https://skillicons.dev/icons?i=tailwind" /> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=vscode" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> </p>
+🧩 Projetos Recentes
+Projeto	Descrição	Stack
+🔹 Sistema RAG para ETP	Análise automatizada de conformidade em documentos públicos	FastAPI • IA • RAG
+🔹 API de Serviços Públicos	Integração de sistemas e automação de processos	FastAPI • MySQL
+🔹 Aplicações Fullstack	Sistemas completos com frontend moderno	Vue • Tailwind
+📊 GitHub Stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/> </p>
+📈 Contribuições
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night" /> </p>
+📫 Contato
 
+💼 LinkedIn: (adicione aqui)
 
-
-
-
-
-
-
-
-
-</p> <p align="center">
-
-
-
-
-
-
-
-
-</p>
-🚀 Foco em Arquitetura
-
-Arquitetura API-first (FastAPI)
-
-Aplicações fullstack (Vue + Tailwind)
-
-APIs RESTful
-
-Código modular e reutilizável
-
-Integração com serviços externos
-
-Sistemas com IA (RAG, análise de documentos)
-
-🏛️ Inovação no Setor Público
-
-Desenvolvo soluções voltadas para:
-
-Automação de processos administrativos
-
-Análise inteligente de documentos (ex: licitações, ETPs)
-
-Sistemas de apoio à decisão com base em dados
-
-Digitalização e modernização de serviços públicos
-
-🤖 Inteligência Artificial & Dados
-
-RAG (Retrieval-Augmented Generation)
-
-Sistemas baseados em LLMs
-
-Pipelines de dados
-
-Modelos preditivos
-
-Processamento de documentos governamentais
-
-📊 Estatísticas do GitHub
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=jonatasbx&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/> </p>
-🧩 Projetos em Destaque
-
-🔹 Sistemas de IA para análise de documentos públicos
-
-🔹 APIs voltadas para integração de serviços governamentais
-
-🔹 Aplicações fullstack (FastAPI + Vue)
-
-🔹 Estruturas reutilizáveis para aceleração de desenvolvimento
+📧 Email: (adicione aqui)
 
 🎯 Missão
 
-Levar práticas modernas de engenharia de software e inteligência artificial para o setor público, aumentando eficiência, transparência e qualidade na tomada de decisão.
-
-🌎 Visão
-
-Um setor público orientado por:
-
-decisões baseadas em dados
-
-processos automatizados
-
-sistemas inteligentes e escaláveis
-
-🤝 Colaboração
-
-Aberto a:
-
-projetos de inovação no setor público
-
-soluções com inteligência artificial
-
-parcerias técnicas e institucionais
-
-📄 Licença
-
-MIT License
+Desenvolver soluções tecnológicas que elevem o nível do setor público, utilizando engenharia de software moderna e inteligência artificial.
 
 <p align="center"> ⭐ Tecnologia a serviço do interesse público </p>
-
-
-
-
-
-
-
-</p> <p align="center">
-
-
-
-
-
-
-
-
-</p>
-🚀 Architecture Focus
-
-API-first design (FastAPI)
-
-Fullstack applications (Vue + Tailwind)
-
-RESTful services
-
-Modular and reusable code structures
-
-Integration with external APIs
-
-AI-powered systems (RAG, document analysis)
-
-🏛️ Public Sector Innovation
-
-I develop solutions aimed at:
-
-Process automation in government workflows
-
-Intelligent document analysis (e.g. procurement, ETPs)
-
-Decision support systems using data
-
-Digital transformation of public services
-
-🤖 AI & Data
-
-Retrieval-Augmented Generation (RAG)
-
-LLM-based systems
-
-Data pipelines and analysis
-
-Predictive models
-
-Government data processing
-
-📊 GitHub Analytics
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/> </p>
-🧩 Featured Work
-
-🔹 AI systems for public document analysis
-
-🔹 Government-focused APIs
-
-🔹 Fullstack applications (FastAPI + Vue)
-
-🔹 Reusable project architectures
-
-🎯 Mission
-
-To bring modern engineering practices and artificial intelligence into the public sector, improving efficiency, transparency and decision-making.
-
-🌎 Vision
-
-A public sector powered by:
-
-data-driven decisions
-
-automated processes
-
-scalable intelligent systems
-
-🤝 Collaboration
-
-Open to:
-
-public sector innovation projects
-
-AI-driven solutions
-
-technical partnerships
-
-📄 License
-
-MIT License
-
-<p align="center"> ⭐ Technology serving the public interest </p>
-## Licença
-
-Este repositório está licenciado sob a [MIT License](LICENSE).
-
----
-
-🌟 **Vamos juntos transformar o setor público com dados e inteligência artificial!** 🌟
-
-
-
-
 
 <!---
 jonatasbx/jonatasbx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
