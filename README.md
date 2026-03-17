@@ -1,7 +1,7 @@
 🚀 Jonatas Xavier
 <p align="center"> <b>Servidor Público • Engenharia de Software • Inteligência Artificial</b> </p> <p align="center"> Inovação no setor público através de dados, automação e sistemas inteligentes </p>
 
-<p🧠 Sobre mim></p>
+🧠 Sobre mim
 
 Servidor público focado no desenvolvimento de soluções tecnológicas modernas para o governo.
 Atuo com construção de sistemas fullstack, análise de dados e inteligência artificial, buscando sempre:
@@ -19,7 +19,7 @@ desenvolver soluções reais e aplicáveis
 🔹 API de Serviços Públicos	Integração de sistemas e automação de processos	FastAPI • MySQL
 🔹 Aplicações Fullstack	Sistemas completos com frontend moderno	Vue • Tailwind /> </p>
 📊 GitHub Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=jonatasbx&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/> </p>
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=jonatasbx&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasbx&layout=compact&theme=tokyonight"/> </p>
 📈 Contribuições
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonatasbx&theme=tokyo-night" /> </p>
 📫 Contato
