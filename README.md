@@ -13,11 +13,13 @@ desenvolver soluções reais e aplicáveis
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=fastapi" /> <img src="https://skillicons.dev/icons?i=vue" /> <img src="https://skillicons.dev/icons?i=tailwind" /> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=vscode" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> </p>
 
-🧩 Projetos Recentes
-Projeto	Descrição	Stack
-🔹 Sistema RAG para ETP	Análise automatizada de conformidade em documentos públicos	FastAPI • IA • RAG
-🔹 API de Serviços Públicos	Integração de sistemas e automação de processos	FastAPI • MySQL
-🔹 Aplicações Fullstack	Sistemas completos com frontend moderno	Vue • Tailwind
+## 🧩 Projetos Recentes
+
+| 🚀 Projeto | 📄 Descrição | 🛠️ Stack |
+|-----------|-------------|----------|
+| Sistema RAG para ETP | Análise automatizada de conformidade em documentos públicos | FastAPI • IA • RAG |
+| API de Serviços Públicos | Integração de sistemas e automação de processos | FastAPI • MySQL |
+| Aplicações Fullstack | Sistemas completos com frontend moderno | Vue • Tailwind |
 
 📊 GitHub Stats
 <p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=jonatasbx&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasbx&layout=compact&theme=tokyonight"/> </p>
