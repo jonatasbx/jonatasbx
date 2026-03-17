@@ -1,18 +1,16 @@
 🚀 Jonatas Xavier
 <p align="center"> <b>Servidor Público • Engenharia de Software • Inteligência Artificial</b> </p> <p align="center"> Inovação no setor público através de dados, automação e sistemas inteligentes </p>
-🧠 Sobre mim
+
+<p🧠 Sobre mim></p>
 
 Servidor público focado no desenvolvimento de soluções tecnológicas modernas para o governo.
-
 Atuo com construção de sistemas fullstack, análise de dados e inteligência artificial, buscando sempre:
-
 aumentar eficiência de processos públicos
-
 apoiar tomada de decisão com dados
-
 desenvolver soluções reais e aplicáveis
 
 🧱 Stack Tecnológica
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=fastapi" /> <img src="https://skillicons.dev/icons?i=vue" /> <img src="https://skillicons.dev/icons?i=tailwind" /> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=vscode" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> </p>
 
 🧩 Projetos Recentes
