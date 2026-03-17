@@ -14,20 +14,21 @@ desenvolver soluções reais e aplicáveis
 
 🧱 Stack Tecnológica
 <p align="center"> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=fastapi" /> <img src="https://skillicons.dev/icons?i=vue" /> <img src="https://skillicons.dev/icons?i=tailwind" /> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=vscode" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> </p>
+
 🧩 Projetos Recentes
-Projeto	Descrição	Stack
+<p Projeto	Descrição	Stack
 🔹 Sistema RAG para ETP	Análise automatizada de conformidade em documentos públicos	FastAPI • IA • RAG
 🔹 API de Serviços Públicos	Integração de sistemas e automação de processos	FastAPI • MySQL
-🔹 Aplicações Fullstack	Sistemas completos com frontend moderno	Vue • Tailwind
+🔹 Aplicações Fullstack	Sistemas completos com frontend moderno	Vue • Tailwind /> </p>
 📊 GitHub Stats
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/> </p>
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=jonatasbx&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/> </p>
 📈 Contribuições
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonatasbx&theme=tokyo-night" /> </p>
 📫 Contato
 
-💼 LinkedIn: (adicione aqui)
+💼 LinkedIn: www.linkedin.com/in/jonatas-xavier-98020971
 
-📧 Email: (adicione aqui)
+📧 Email: jonatas.b.xavier@gmail.com
 
 🎯 Missão
 
