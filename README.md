@@ -21,10 +21,6 @@ Construo aplicações fullstack, com foco em:
 <p align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> </p>
 🧩 Projetos em Destaque
 <p align="center"> <a href="#"> <img src="https://img.shields.io/badge/Sistema%20RAG%20ETP-Análise%20de%20Documentos-blue?style=for-the-badge" /> </a> <a href="#"> <img src="https://img.shields.io/badge/API%20Serviços%20Públicos-Integração%20e%20Automação-green?style=for-the-badge" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Fullstack%20Apps-Vue%20%2B%20FastAPI-purple?style=for-the-badge" /> </a> </p>
-📊 Estatísticas do GitHub
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=jonatasbx&show_icons=true&theme=tokyonight" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasbx&layout=compact&theme=tokyonight"/> </p>
-📈 Atividade
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonatasbx&theme=tokyo-night" /> </p>
 🏛️ Foco em Inovação Pública
 
 Automação de processos administrativos
