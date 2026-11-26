@@ -13,6 +13,7 @@ Este perfil reúne os projetos que construo ao longo dessa formação, com aten�
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,webpack,vue,mysql,git,github,vscode" />
 </p>
+
 ## Projeto em destaque
  
 **[Restaurant Page](https://github.com/jonatasbx/restaurant-page)**
